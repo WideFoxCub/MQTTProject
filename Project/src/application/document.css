@@ -1,0 +1,16 @@
+.flowPane {
+	-fx-background-image: url('images/Background.jpg');
+	-fx-background-size: cover;
+	-fx-alignment: top-center;
+}
+
+.label {
+	-fx-font-size: 20px;
+    -fx-text-fill: #FFFFFF;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+    -fx-content-display: center;
+}
+.image {
+	-fx-background-size: cover;
+}

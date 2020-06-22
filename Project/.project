@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Project</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.xtext.ui.shared.xtextBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.xtext.ui.shared.xtextNature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/images/56466.jpg</name>
+			<type>1</type>
+			<location>C:/Users/Admin/Documents/NetBeansProjects/Project/src/project/images/56466.jpg</location>
+		</link>
+		<link>
+			<name>src/images/Background.jpg</name>
+			<type>1</type>
+			<location>C:/Users/Admin/eclipse-workspace/Project/src/images/Background.jpg</location>
+		</link>
+	</linkedResources>
+</projectDescription>
